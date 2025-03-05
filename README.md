@@ -23,7 +23,7 @@
  ###### Easy to use. 🍉
  ###### Loads websites fast, even on old devices. 🚀
  ###### Supports tabs for multitasking. 📑
- ###### Customizable with extensions. 🛠️
+ ###### Dark Mode Support. 🛠️
  ###### Search and explore with ease. 🔍
 
   <br><br> <!-- Creates extra space -->
