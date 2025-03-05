@@ -39,9 +39,6 @@
   </h1>
 </div>
 
-
-<br><br> <!-- Creates extra space -->
-
   
   ## Features 📦
  ######   Written entirely in C for efficiency and simplicity.
@@ -51,10 +48,3 @@
  ######   Focused on essential features, no bloat. ✂️
  ######   Tabbed browsing for multitasking. 📑
  ######   Simple and intuitive navigation. 🍉
-</div>
-
-<div align="center">
-  
-  <br><br> <!-- Creates extra space -->
-  <br><br> <!-- Creates extra space -->
-
