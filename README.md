@@ -19,7 +19,6 @@
   <img src="showcase/surf1.png" align="right" alt="Preview" width="550" style="display: inline-block; margin: 0; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </h1>
 
-  <br><br> <!-- Creates extra space -->
 
 
 <div align="left">
