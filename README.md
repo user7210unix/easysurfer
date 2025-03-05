@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/184499117?s=400&u=6c9d96b972df4a7fd9358bbeffcddcb311022091&v=4" align="center" alt="Preview" width="150" style="display: block; margin: 0; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
-</div>
-
-<div align="center">
   <h2 style="font-size: 74px;">
     <strong>
       <a href="https://user7210unix.github.io/Showcase-website/" style="text-decoration: none; color: inherit;">
-        @USER7210UNIX
+        EASYSURFER - WEB BROWSER
       </a>
     </strong>
   </h2>
