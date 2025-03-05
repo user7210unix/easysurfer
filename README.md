@@ -35,6 +35,8 @@
   </h1>
 </div>
 
+<div align="right">
+
   
   ## Features 📦
  ######   Written entirely in C for efficiency and simplicity.
