@@ -46,8 +46,7 @@
 
 <div align="right">
   
-## Features 📦
-
+  ## Features 📦
  ######   Written entirely in C for efficiency and simplicity.
  ######   Designed exclusively for Linux systems. 🐧
  ######   Lightweight and fast, ideal for older hardware. ⚡
