@@ -24,7 +24,6 @@
  ###### Loads websites fast, even on old devices. 🚀
  ###### Supports tabs for multitasking. 📑
  ###### Customizable with extensions. 🛠️
- ###### Works across devices. 🔗
  ###### Search and explore with ease. 🔍
 
   <br><br> <!-- Creates extra space -->
