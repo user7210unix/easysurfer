@@ -23,7 +23,7 @@
 
 <div align="left">
   
-  ## A Browser that 🐧:
+  ## A Browser that is 🔍
  ###### Easy to use. 🍉
  ###### Loads websites fast, even on old devices. 🚀
  ###### Supports tabs for multitasking. 📑
