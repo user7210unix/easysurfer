@@ -27,7 +27,7 @@
  ###### Search and explore with ease. 🔍
 
   <br><br> <!-- Creates extra space -->
-</div>
+
 
   <br><br> <!-- Creates extra space -->
 
